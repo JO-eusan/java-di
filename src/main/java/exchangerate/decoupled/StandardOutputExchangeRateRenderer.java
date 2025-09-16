@@ -1,6 +1,7 @@
 package exchangerate.decoupled;
 
 public class StandardOutputExchangeRateRenderer implements ExchangeRateRenderer {
+
     private ExchangeRateProvider provider;
 
     @Override
